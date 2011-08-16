@@ -1,0 +1,1 @@
+/WWW/SOURCE/joomla/plugins/xmlrpc/joomla.php

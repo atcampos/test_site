@@ -1,0 +1,1 @@
+/WWW/SOURCE/joomla/administrator/index2.php
